@@ -1,4 +1,4 @@
-
+//team-from-now-on
 
 document.addEventListener("DOMContentLoaded", function() {
     const cards = document.querySelectorAll(".team-cards .event-card");
